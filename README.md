@@ -2,10 +2,11 @@
 Content from a workshop on using git from the RStudio interface.
 
 ## Installation instructions
+If you only want to observe, you can skip this section. 
 
 To follow along in this workshop you will need 
 1. [A GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
-2. The following installed on your computer: 
+2. The following software installed on your computer: 
   * [R programming language](https://rstudio-education.github.io/hopr/starting.html#how-to-download-and-install-r)
   *  [RStudio IDE](https://rstudio-education.github.io/hopr/starting.html#rstudio)
   *  [git version control](https://happygitwithr.com/install-git)
