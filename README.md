@@ -18,6 +18,6 @@ To get the most out of this workshop, you should
 
 ## Resources
 * [Workshop slides - Link](https://nuwildcat.sharepoint.com/:p:/s/NUIT-RCS/EXbNldkoUlZKgRNuSzLW6vEBth4fPovKw-IK7IfAsML63g?e=IKf46c)
-* [Workshop slides (pdf)]
+* [Workshop slides (pdf)](https://github.com/nuitrcs/git-RStudio/blob/main/RStudio-git-basics.pdf)
 * [Written Setup Instructions](https://sites.northwestern.edu/researchcomputing/resources/using-git-and-github-with-r-rstudio/)
 * [Other ways to set up Git repos in R](https://github.com/nuitrcs/git-RStudio/assets/12850833/09134a43-ce75-4e0d-92ae-1e3ead162599)
