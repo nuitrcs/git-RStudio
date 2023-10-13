@@ -15,3 +15,7 @@ To follow along in this workshop you will need
 To get the most out of this workshop, you should
 * Have some experience coding in the R programming language
 * Be familiar with the RStudio interface
+
+## Resources
+* [Written Setup Instructions](https://sites.northwestern.edu/researchcomputing/resources/using-git-and-github-with-r-rstudio/)
+* [Other ways to set up Git repos in R](https://github.com/nuitrcs/git-RStudio/assets/12850833/09134a43-ce75-4e0d-92ae-1e3ead162599)
