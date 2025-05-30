@@ -1,6 +1,9 @@
 # Using git in the RStudio interface
 Content from a workshop on using git from the RStudio interface.
 
+## Description
+Using a formal version control system for the first time can be intimidating. This workshop will show you how to perform all the basic functions of git and GitHub from the RStudio IDE. No experience with git is necessary! We will cover basic terminology, how to create a repository in GitHub, clone this repository to your computer, add changes to your repository, and back them up onto GitHub. Attendees would benefit from familiarity with R and the RStudio interface.
+
 ## Installation instructions
 If you only want to observe, you can skip this section. 
 
